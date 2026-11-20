@@ -1,0 +1,17 @@
+Waste_Type,Bin_Color,Hazardous
+"General Waste (food, kitchen, paper, office waste)",Green,0
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",Yellow,1
+Human Anatomical Waste,Yellow,1
+Metallic Implants,Blue/White,1
+"Plastic Waste (blood bags, urine bags, disposable plastic)",Red,1
+Expired or Discarded Medicines,Yellow,1
+Pressurized Containers (aerosol cans),Black,1
+"Chemical Waste (discarded disinfectants, heavy metals)",Black,1
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",Red,1
+"Sharps Waste (needles, scalpels, blades)",Blue/White,1
+"Chemical Waste (used disinfectants, lab chemicals)",Yellow,1
+"Glassware (ampules, glass vials, slides)",Blue/White,1
+Discarded Medicines (cytotoxic drugs),Black,1
+"Packaging Material (wrappers, cardboard)",Green,1
+Non-hazardous Garden Waste,Green,0
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",Yellow,1
