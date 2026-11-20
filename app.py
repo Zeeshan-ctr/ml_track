@@ -32,3 +32,5 @@ def classify(item: str):
         "hazardous": int(row["Hazardous"]),
         "confidence": round(float(confidence), 2),
     }
+__pycache__/
+.ipynb_checkpoints/
